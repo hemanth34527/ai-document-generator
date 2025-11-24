@@ -1,0 +1,14 @@
+.refine-modal {
+  max-width: 600px;
+}
+
+.modal-description {
+  color: #6c757d;
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.refine-modal textarea {
+  font-family: inherit;
+}
