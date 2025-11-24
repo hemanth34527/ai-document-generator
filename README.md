@@ -452,7 +452,22 @@ Cannot find module 'axios'
 
 ## Demo Video
 
-[Upload your demo video here - 5-10 minutes showing the features above]
+**🎥 Watch the complete demonstration (5-10 minutes):**
+
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1J0tZulMpBsGH_AX0FWTvK-l7REOr6Oky/view?usp=drive_link)
+
+**[Click here to view the demo video on Google Drive](https://drive.google.com/file/d/1J0tZulMpBsGH_AX0FWTvK-l7REOr6Oky/view?usp=drive_link)**
+
+The demo video covers:
+- User registration and login
+- Creating Word and PowerPoint documents
+- AI-powered content generation with Gemini API
+- Section-level refinement with custom prompts
+- Using like/dislike feedback buttons
+- Adding comments to sections
+- Document-level refinement
+- Version control and history tracking
+- Exporting documents as .docx and .pptx files
 
 ## License
 
